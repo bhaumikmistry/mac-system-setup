@@ -8,6 +8,8 @@ Graphics: 	Intel Iris Plus Graphics 645 1536 MB
 ```
 + [IDEs](#IDEs)
 + [Tools](#Tools)
++ [Web browsers](#Web-browsers)
++ [Storage Manage](#Storage-Manage)
 
 #### IDEs
 + Visual Studio [link](https://code.visualstudio.com/docs/?dv=osx)
@@ -18,3 +20,9 @@ Graphics: 	Intel Iris Plus Graphics 645 1536 MB
 
 #### Web browsers 
 + Chrome [link](https://www.google.com/chrome/thank-you.html?brand=CHBD&statcb=0&installdataindex=empty)
+
+#### Storage Manage
++ Go to `About this mac`>`Storage`>`Manage`
++ Select options 
+    + Optimize Storage
+    + Auto Empty Trash
