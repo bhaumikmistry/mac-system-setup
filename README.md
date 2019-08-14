@@ -15,7 +15,6 @@ Graphics: 	Intel Iris Plus Graphics 645 1536 MB
 
 #### Tools
 + git [download link](https://git-scm.com)
-+ mmd [download link](https://multimarkdown.com)
 
 #### Web browsers 
 + Chrome [link](https://www.google.com/chrome/thank-you.html?brand=CHBD&statcb=0&installdataindex=empty)
