@@ -21,7 +21,7 @@ Graphics: 	Intel Iris Plus Graphics 645 1536 MB
 + command-line-tools ``` xcode-select --install ```
 + Homebrew ```ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"``` 
     + --version ```Homebrew 2.1.10```
-+ Python [python_install.md]
++ [Python](python_install.md)
     + --version ```python --version Python 3.7.4```    
 
 #### Web browsers 
