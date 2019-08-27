@@ -17,6 +17,12 @@ Graphics: 	Intel Iris Plus Graphics 645 1536 MB
 
 #### Tools
 + git [download link](https://git-scm.com)
+    + --version ```git version 2.22.0```
++ command-line-tools ``` xcode-select --install ```
++ Homebrew ```ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"``` 
+    + --version ```Homebrew 2.1.10```
++ Python [python_install.md]
+    + --version ```python --version Python 3.7.4```    
 
 #### Web browsers 
 + Chrome [link](https://www.google.com/chrome/thank-you.html?brand=CHBD&statcb=0&installdataindex=empty)
