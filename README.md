@@ -23,6 +23,8 @@ Graphics: 	Intel Iris Plus Graphics 645 1536 MB
     + --version ```Homebrew 2.1.10```
 + [Python](python_install.md)
     + --version ```python --version Python 3.7.4```    
+    + pipenv [ using pip install --user pipenv]
++ [Slack](https://apps.apple.com/app/slack/id803453959?ls=1&mt=12)
 
 #### Web browsers 
 + Chrome [link](https://www.google.com/chrome/thank-you.html?brand=CHBD&statcb=0&installdataindex=empty)
