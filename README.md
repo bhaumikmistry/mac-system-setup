@@ -14,6 +14,7 @@ Graphics: 	Intel Iris Plus Graphics 645 1536 MB
 #### IDEs
 + Visual Studio [link](https://code.visualstudio.com/docs/?dv=osx)
 + XCode [link](https://developer.apple.com/xcode/)
++ QT [link](https://www.qt.io/download-open-source?hsCtaTracking=9f6a2170-a938-42df-a8e2-a9f0b1d6cdce%7C6cb0de4f-9bb5-4778-ab02-bfb62735f3e5)
 
 #### Tools
 + git [download link](https://git-scm.com)
