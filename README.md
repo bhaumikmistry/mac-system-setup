@@ -2,6 +2,7 @@
 
 ### Configurations
 ```
+macOS Catalina 10.15.2 (19C57)
 Processor:	1.4 Ghz intel core i5
 Memory: 	8 GB 2133 MHz
 Graphics: 	Intel Iris Plus Graphics 645 1536 MB
